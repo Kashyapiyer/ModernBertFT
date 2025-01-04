@@ -1,8 +1,7 @@
 **This code is solemly developed using personal colab resources **
 
 
-
-Reference Dataset : 
+Reference Datasets : 
 [profanityclean](https://huggingface.co/datasets/tarekziade/profanity-clean)
 [surgeaitoxicity](https://github.com/surge-ai/toxicity/blob/main/toxicity_en.csv)
 
